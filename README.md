@@ -4,3 +4,4 @@ Multiplayer chess game playable via the internet. Currently under development an
 TO DO:
 * Add the ability to move pieces using the mouse pointer.
 * Add logic to declare winner and loser etc game rules
+* Improve GUI
